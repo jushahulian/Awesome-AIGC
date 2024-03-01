@@ -161,3 +161,4 @@
 146 完结 [数据技术课堂GPT大模至AIGC技术实战营](https://appze9inzwc2314.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_64467371e4b0cf39e6c0c026)
 147 更新 [七月在线大模型项目开发线上营](https://julyedu.com/course/getDetail/498)
 148 更新 [极客时间彭靖田AI 大模型应用开发实战营3期](https://u.geekbang.org/subject/llm)
+    
